@@ -21,20 +21,16 @@ Dependências
 ------------
 * [Java JDK 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
 
-Setting up
+Rodar o experimento
 ------------
-Assuming you already have Python installed follow the steps bellow. Otherwise, go to [Python download page](https://www.python.org/downloads/) and install Python.
+Assumindo que o Java JDK 8 já está instalado, execute os comandos abaixo.
 
-	$ python --version
-    $ pip install github3.py
-    $ pip install pandas
-    $ pip install numpy scipy scikit-learn
-
-Running
-------------
-	$ python loaddata/main.py
-    $ python classification/main.py
-
+    $ java -version
+	$ mkdir aao
+    $ cd addo
+    $ git clone https://github.com/ddangelorb/aao.git
+    $ javac 
+    $ java ExperimentosTeste -ea -Xms15g -Xmx15g -Xss5g
 
 License
 ------------

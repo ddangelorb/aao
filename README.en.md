@@ -1,5 +1,5 @@
-# aao
-aao :: Sorting Algorithms Analysis [para Português clique aqui](https://github.com/ddangelorb/aao/blob/master/README.md)
+# aao :: Sorting Algorithms Analysis
+[para Português clique aqui](https://github.com/ddangelorb/aao/blob/master/README.md)
 
 When we develop an algorithm to fix a problem, it is essential to ask the quality of this algorithm, in other words, we should ask ourselves: Apart from fix the problem, does the algorithm take a reasonable execution time? How long does the algorithm execute and what is its complexity? How can we improve this algorithm? Algorithms Analysis Studies give us the answears to these questions in a teorical and pratical manner.
 
