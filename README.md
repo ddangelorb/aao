@@ -19,11 +19,11 @@ InsertionSort, MergeSort, QuickSort, RadixSort e SelectionSort.
 
 Dependências
 ------------
-* [Java JDK 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
+* [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
 
 Rodar o experimento
 ------------
-Assumindo que o Java JDK 8 já está instalado, execute os comandos abaixo.
+Assumindo que o Java 8 já está instalado, execute os comandos abaixo.
 
     $ java -version
 	$ mkdir aao
@@ -32,11 +32,11 @@ Assumindo que o Java JDK 8 já está instalado, execute os comandos abaixo.
     $ javac 
     $ java ExperimentosTeste -ea -Xms15g -Xmx15g -Xss5g
 
-License
+Licença
 ------------
-MIT [license](https://github.com/ddangelorb/gthbmining/blob/master/LICENSE)
+MIT [license](https://github.com/ddangelorb/aao/blob/master/LICENSE)
 
-Author
+Autor
 ------
 
 [Daniel D'Angelo R. Barros](https://github.com/ddangelorb)

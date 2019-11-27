@@ -6,28 +6,26 @@ When we develop an algorithm to fix a problem, it is essential to ask the qualit
 One important field of Algorithms Analysis Studies is Sorting Algorithms. There are many techniques around Sorting Algorithms with many studies in the last decades, improvements and even new proposals. This project aims to run experiments around Sorting Algorithms and its execution times using the methods: BinaryInsertionSort, BubbleSort, BucketSort, CountingSort, HeapSort,
 InsertionSort, MergeSort, QuickSort, RadixSort e SelectionSort.
 
+All documentation is written in Portuguese, but I do believe it's easy to figure out the methods and main idea here ;-)
+
 Dependencies
 ------------
-* [Java JDK 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
+* [Java 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
 
-Setting up
+Running experiment
 ------------
-Assuming you already have Python installed follow the steps bellow. Otherwise, go to [Python download page](https://www.python.org/downloads/) and install Python.
+Assuming you already have Java 8 installed run the following commands.
 
-	$ python --version
-    $ pip install github3.py
-    $ pip install pandas
-    $ pip install numpy scipy scikit-learn
-
-Running
-------------
-	$ python loaddata/main.py
-    $ python classification/main.py
-
+    $ java -version
+	$ mkdir aao
+    $ cd addo
+    $ git clone https://github.com/ddangelorb/aao.git
+    $ javac 
+    $ java ExperimentosTeste -ea -Xms15g -Xmx15g -Xss5g
 
 License
 ------------
-MIT [license](https://github.com/ddangelorb/gthbmining/blob/master/LICENSE)
+MIT [license](https://github.com/ddangelorb/aao/blob/master/LICENSE)
 
 Author
 ------
