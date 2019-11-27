@@ -1,5 +1,5 @@
-# aao
-aao :: Análise de Algoritmos de Ordenação [for English click here](https://github.com/ddangelorb/aao/blob/master/README.en.md)
+# aao :: Análise de Algoritmos de Ordenação
+[for English click here](https://github.com/ddangelorb/aao/blob/master/README.en.md)
 
 Quando escrevemos um algoritmo para resolver um determinado problema, uma
 questão fundamental é saber avaliarmos a qualidade desse algoritmo, ou seja,
