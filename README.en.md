@@ -18,7 +18,7 @@ Assuming you already have Java 8 installed run the following commands.
 
     $ java -version
 	$ mkdir aao
-    $ cd addo
+    $ cd aao
     $ git clone https://github.com/ddangelorb/aao.git
     $ javac 
     $ java ExperimentosTeste -ea -Xms15g -Xmx15g -Xss5g
