@@ -32,6 +32,14 @@ Assumindo que o Java 8 já está instalado, execute os comandos abaixo.
     $ javac 
     $ java ExperimentosTeste -ea -Xms15g -Xmx15g -Xss5g
 
+Veja mais
+------------
+O código-fonte dos algoritmos de ordenação e os testes estão disponíveis [aqui](https://github.com/ddangelorb/aao/blob/master/src).
+
+A documentação técnica está disponível em javadoc [aqui](https://github.com/ddangelorb/aao/blob/master/doc/index.html). 
+
+A documentação completa e consolidada com a explicação individual de cada método, javadoc e código-fonte está disponível [aqui](https://github.com/ddangelorb/aao/blob/master/doc_exp.pdf)
+
 Licença
 ------------
 MIT [license](https://github.com/ddangelorb/aao/blob/master/LICENSE)
