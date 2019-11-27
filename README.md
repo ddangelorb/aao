@@ -1,5 +1,5 @@
 # aao
-aao :: Análise de Algoritmos de Ordenação [for English click here] (https://github.com/ddangelorb/aao/blob/master/README.en.md)
+aao :: Análise de Algoritmos de Ordenação [for English click here](https://github.com/ddangelorb/aao/blob/master/README.en.md)
 
 Quando escrevemos um algoritmo para resolver um determinado problema, uma
 questão fundamental é saber avaliarmos a qualidade desse algoritmo, ou seja,
@@ -19,7 +19,7 @@ InsertionSort, MergeSort, QuickSort, RadixSort e SelectionSort.
 
 Dependências
 ------------
-* [Java JDK 8] (https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
+* [Java JDK 8](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
 
 Setting up
 ------------
