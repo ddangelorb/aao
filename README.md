@@ -26,12 +26,10 @@ Rodar o experimento
 Assumindo que o Java 8 já está instalado, execute os comandos abaixo.
 
     $ java -version
-	$ mkdir aao
-    $ cd aao
     $ git clone https://github.com/ddangelorb/aao.git
     $ mkdir bin
-    $ javac -d bin -classpath lib/\* src/aao/algoritmos/*.java src/aao/testes/*.java
-    $ java -ea -Xms15g -Xmx15g -Xss5g -jar lib/junit-platform-console-standalone-1.5.2.jar --class-path bin -c aao.testes.ExperimentosTests
+    $ javac -d bin -classpath aao/lib/\* aao/src/aao/algoritmos/*.java aao/src/aao/testes/*.java
+    $ java -ea -Xms15g -Xmx15g -Xss5g -jar aao/lib/junit-platform-console-standalone-1.5.2.jar --class-path bin -c aao.testes.ExperimentosTests
 
 Veja mais
 ------------
